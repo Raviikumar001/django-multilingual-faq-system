@@ -1,0 +1,23 @@
+# Core
+Django>=3.2
+djangorestframework
+
+# Editor
+django-ckeditor
+
+# Caching
+django-redis
+
+# Translation
+googletrans==4.0.0rc1
+
+# Development & Testing
+pytest
+flake8
+
+# Deployment
+gunicorn
+
+
+psycopg2-binary  # PostgreSQL adapter for Python
+python-dotenv    # For handling environment variables
